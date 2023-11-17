@@ -52,10 +52,10 @@ const Contact = () => {
                 <textarea className='msg' name='message' rows={5} placeholder='Your message'></textarea>
                 <button type='submit' value='send' className='submitBtn'>Submit</button>
                 <div className='links'>
-                    <img src={facebok} alt='' className='link'/>
-                    <img src={instagram} alt='' className='link'/>
+                    <a href='https://web.facebook.com/ojogabriel.babatunde'><img src={facebok} alt='' className='link'/></a>
+                    <a href='https://www.instagram.com/babatundeg81/'><img src={instagram} alt='' className='link'/></a>
                     <img src={twitter} alt='' className='link'/>
-                    <img src={linkedin} alt='' className='link'/>
+                    <a href='https://www.linkedin.com/in/gabriel-ojo-33b3a58b/'><img src={linkedin} alt='' className='link'/></a>
                 </div>
             </form>
         </div>

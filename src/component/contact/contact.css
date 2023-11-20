@@ -23,7 +23,7 @@
 .clientImgs {
     margin: 1rem 0;
     display: flex;
-    background: rgb(50, 50, 50);
+    background: white;
     /* flex-wrap: wrap; */
 }
 

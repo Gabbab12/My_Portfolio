@@ -1,9 +1,9 @@
 import React, { useRef } from 'react';
 import './contact.css';
-import  warmart from '../../assets/warmat.png';
-import facebook from '../../assets/facebook2.png';
-import microsoft from '../../assets/Microsoft-Logo.wine.png';
-import Adobe from '../../assets/Adobe.png';
+import  warmart from '../../assets/Dewtom.png';
+import facebook from '../../assets/Decagon.png';
+import microsoft from '../../assets/new_horizons.png';
+import Adobe from '../../assets/BR.png';
 import facebok from '../../assets/facebook1.png';
 import instagram from '../../assets/instagram.png';
 import twitter from '../../assets/twitter.png';

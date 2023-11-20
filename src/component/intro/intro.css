@@ -68,5 +68,8 @@
     .Hello{
         font-size: 4.5vw;
     }
+    .introContent .introText{
+        font-size: small;
+    }
     
 }
